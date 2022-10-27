@@ -1,0 +1,1 @@
+poitners array and strings
